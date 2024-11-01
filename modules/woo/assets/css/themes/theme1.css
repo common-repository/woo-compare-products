@@ -1,0 +1,155 @@
+/* fonts */
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: local('../fonts/OpenSans-Regular.ttf');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-weight: 400;
+	font-style: italic;
+	src: local('../fonts/OpenSans-Italic.ttf');
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 600;
+	src: local('../fonts/OpenSans-Bold.ttf');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: italic;
+	font-weight: 600;
+	src: local('../fonts/OpenSans-BoldItalic.ttf');
+}
+/**/
+.wcpTblTtheme1.wcpCompareProductTable {
+	border-spacing: 10px 0;
+	font-family: 'Open Sans', sans-serif;
+	background-color: transparent;
+	white-space: normal;
+
+	box-sizing: border-box;
+	line-height: initial;
+	margin: initial;
+	padding: initial;
+	vertical-align: initial;
+	outline: initial;
+}
+.wcpTblTtheme1 .wcpProductCell {
+	padding: 12px;
+	border-bottom: 1px solid #d2d2d2;
+	border-top: 1px solid #fff;
+	text-align: center;
+
+	border-left: 1px solid #d2d2d2;
+	border-right: 1px solid #d2d2d2;
+	color: #666;
+	background-color: #f5f5f5;
+	font-size: 12pt;
+}
+.wcpTblTtheme1 .wcpFirstRow .wcpProductCell {
+	border-top-width: 0;
+}
+.wcpTblTtheme1 .wcpLastRow .wcpProductCell {
+	border-bottom-width: 0;
+}
+
+.wcpTblTtheme1 .wcpProductCell.wcpHeaderColumnCell {
+	border: none;
+	background: transparent;
+}
+.wcpTblTtheme1 .wcpProductCell.wcpColHeader {
+	color: #fff;
+	padding: 15px;
+	font-size: 12pt;
+	position: relative;
+}
+.wcpTblTtheme1 .wcpProductCell.wcpColHeader:nth-of-type(4n+2) {
+	background-color: rgb(51, 153, 255);
+}
+.wcpTblTtheme1 .wcpProductCell.wcpColHeader:nth-of-type(4n+3) {
+	background-color: rgb(147, 194, 48);
+}
+.wcpTblTtheme1 .wcpProductCell.wcpColHeader:nth-of-type(4n+4) {
+	background-color: rgb(255, 174, 53);
+}
+.wcpTblTtheme1 .wcpProductCell.wcpColHeader:nth-of-type(4n+5) {
+	background-color: rgb(240, 61, 0);
+}
+.wcpTblTtheme1 .wcpProductCell.wcpColDesc {
+	color: #fff;
+	padding: 30px 15px;
+	font-size: 48px;
+	overflow: hidden;
+}
+.wcpTblTtheme1 .wcpProductCell.wcpColDesc:nth-of-type(4n+2) {
+	background-color: #1076dc;
+}
+.wcpTblTtheme1 .wcpProductCell.wcpColDesc:nth-of-type(4n+3) {
+	background-color: #709f0d;
+}
+.wcpTblTtheme1 .wcpProductCell.wcpColDesc:nth-of-type(4n+4) {
+	background-color: #dc8b12;
+}
+.wcpTblTtheme1 .wcpProductCell.wcpColDesc:nth-of-type(4n+5) {
+	background-color: #cd1a00;
+}
+.wcpTblTtheme1 .wcpProductCell.wcpColFooter {
+	padding: 20px;
+	border: 1px solid #d2d2d2;
+	background-image: linear-gradient(to bottom, #ffffff, #e1e1e1);
+}
+.wcpTblTtheme1 .wcpBuyBtnLink {
+	display: inline-block;
+	font-size: 1.4em;
+	width: 100%;
+	padding: 10px 0;
+	text-decoration: none !important;
+	border: none !important;
+	border-radius: 3px;
+	cursor: pointer;
+	color: #fff;
+}
+
+.wcpTblTtheme1 .wcpColFooter:nth-of-type(4n+2) .wcpBuyBtnLink {
+	background-color: rgb(51, 153, 255);
+}
+.wcpTblTtheme1 .wcpColFooter:nth-of-type(4n+3) .wcpBuyBtnLink {
+	background-color: rgb(147, 194, 48);
+}
+.wcpTblTtheme1 .wcpColFooter:nth-of-type(4n+4) .wcpBuyBtnLink {
+	background-color: rgb(255, 174, 53);
+}
+.wcpTblTtheme1 .wcpColFooter:nth-of-type(4n+5) .wcpBuyBtnLink {
+	background-color: rgb(240, 61, 0);
+}
+.wcpTblTtheme1 .wcpColFooter:nth-of-type(4n+2) .wcpBuyBtnLink:hover {
+	background-color: #1076dc;
+}
+.wcpTblTtheme1 .wcpColFooter:nth-of-type(4n+3) .wcpBuyBtnLink:hover {
+	background-color: #709f0d;
+}
+.wcpTblTtheme1 .wcpColFooter:nth-of-type(4n+4) .wcpBuyBtnLink:hover {
+	background-color: #dc8b12;
+}
+.wcpTblTtheme1 .wcpColFooter:nth-of-type(4n+5) .wcpBuyBtnLink:hover {
+	background-color: #cd1a00;
+}
+/* on hover*/
+.wcpTblTtheme1 .wcpProductCell.wcpColDesc:hover span {
+	font-size: 54px;
+}
+.wcpTblTtheme1 .wcpProductCell.wcpColDesc mark,
+.wcpTblTtheme1 .wcpProductCell.wcpColDesc ins {
+	background: none;
+}
+.wcpTblTtheme1 .wcpProductCell.wcpColDesc span {
+	-webkit-transition: font-size 0.3s ease;
+	-moz-transition: font-size 0.3s ease;
+	-ms-transition: font-size 0.3s ease;
+	-o-transition: font-size 0.3s ease;
+	transition: font-size 0.3s ease;
+}

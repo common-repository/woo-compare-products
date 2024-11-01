@@ -1,0 +1,71 @@
+.wcpPopupProductCompareContainer {
+	position: relative;
+	width: 100% !important;
+	box-sizing: border-box;
+}
+.wcpLoaderCont {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	background: rgba(0, 0, 0, 0.8);
+}
+.wcpLoaderImg {
+	display: inline-block;
+	height: 31px !important;
+	width: 31px !important;
+}
+.wcpProductsContainer {
+
+}
+.wcpButtonIcon {
+	margin-right: 5px;
+}
+/**/
+.wcpCompareProductTable {
+	display: table;
+}
+.wcpProductRow {
+	display: table-row;
+}
+.wcpProductCell {
+	display: table-cell;
+	vertical-align: top;
+	min-width: 200px;
+	word-break: break-word;
+}
+.wcpProductLogoImg {
+	max-width: 100%;
+}
+
+.wcpProductRemove {
+	font-size: 16px;
+	color: #fff;
+	background-color: #ff0000;
+	border-radius: 50%;
+
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	font-size: 20px;
+	top: -11px;
+	right: -11px;
+	cursor: pointer;
+}
+.wcpProductRemove.wcpDisableBtn {
+	background-color: #aaa;
+	cursor: wait;
+}
+.button.wcpCompareButton.wcpDisableBtn {
+	background-color: #aaa;
+	cursor: wait;
+}
+.owp-content-center.product .wcpCompareButton {
+	margin: 5px auto 0 auto;
+	display: table !important;
+}

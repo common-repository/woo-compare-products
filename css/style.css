@@ -1,0 +1,9 @@
+.wcpErrorMsg {
+    color: #fa4e7f;
+}
+.wcpSuccessMsg {
+    color: #4ae8ea;
+}
+.wcpInputError {
+    border: 1px #fa4e7f solid !important;
+}

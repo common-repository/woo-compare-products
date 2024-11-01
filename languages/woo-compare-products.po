@@ -1,0 +1,1145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Compare Products\n"
+"POT-Creation-Date: 2019-06-19 12:27+0300\n"
+"PO-Revision-Date: 2019-06-19 12:27+0300\n"
+"Last-Translator: \n"
+"Language-Team: supsystic.com <supsystic.team@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/controller.php:207 classes/controller.php:215
+#: modules/options/controller.php:6
+#: modules/pages/views/tpl/deactivatePage.php:37
+msgid "Done"
+msgstr ""
+
+#: classes/field.php:131
+msgid "Select"
+msgstr ""
+
+#: classes/field.php:170 classes/field.php:179 classes/field.php:184
+msgid "N/A"
+msgstr ""
+
+#: classes/field.php:277
+msgid "Add Checkbox"
+msgstr ""
+
+#: classes/field.php:282 classes/field.php:287
+msgid "Add Item"
+msgstr ""
+
+#: classes/field.php:293
+msgid "Add Radio Button"
+msgstr ""
+
+#: classes/field.php:311
+msgid "Dimensions"
+msgstr ""
+
+#: classes/field.php:314
+msgid "width"
+msgstr ""
+
+#: classes/field.php:316
+msgid "height"
+msgstr ""
+
+#: classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr ""
+
+#: classes/field.php:324
+msgid "Attributes"
+msgstr ""
+
+#: classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr ""
+
+#: classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr ""
+
+#: classes/fieldAdapter.php:95
+msgid "Address"
+msgstr ""
+
+#: classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr ""
+
+#: classes/fieldAdapter.php:97
+msgid "Country"
+msgstr ""
+
+#: classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr ""
+
+#: classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr ""
+
+#: classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr ""
+
+#: classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr ""
+
+#: classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr ""
+
+#: classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr ""
+
+#: classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr ""
+
+#: classes/fieldAdapter.php:184
+msgid "class"
+msgstr ""
+
+#: classes/fieldAdapter.php:186 classes/tables/usage_stat.php:7
+msgid "id"
+msgstr ""
+
+#: classes/frame.php:141
+msgid "You have no permissions to view this page"
+msgstr ""
+
+#: classes/html.php:316
+msgid "Upload"
+msgstr ""
+
+#: classes/html.php:720
+msgid "ON"
+msgstr ""
+
+#: classes/html.php:721
+msgid "OFF"
+msgstr ""
+
+#: classes/html.php:745
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: classes/installer.php:148 modules/options/mod.php:138
+msgid "Compare"
+msgstr ""
+
+#: classes/installer.php:151 modules/options/mod.php:144
+msgid "Added"
+msgstr ""
+
+#: classes/installer.php:154 modules/options/mod.php:150
+#: modules/woo/models/Themes/theme1Builder.php:34
+msgid "Buy"
+msgstr ""
+
+#: classes/modInstaller.php:34
+#, php-format
+msgid "Move files for %s failed"
+msgstr ""
+
+#: classes/modInstaller.php:37
+#, php-format
+msgid "%s is not plugin module"
+msgstr ""
+
+#: classes/modInstaller.php:76
+msgid "Cannot create module directory. Try to set permission to "
+msgstr ""
+
+#: classes/modInstaller.php:103
+msgid "No modules were found in XML file"
+msgstr ""
+
+#: classes/modInstaller.php:107
+msgid "Invalid XML file"
+msgstr ""
+
+#: classes/modInstaller.php:109
+msgid "No XML file were found"
+msgstr ""
+
+#: classes/modInstaller.php:132
+#, php-format
+msgid "Install %s failed"
+msgstr ""
+
+#: classes/modInstaller.php:138
+msgid "Error Activate module"
+msgstr ""
+
+#: classes/modInstaller.php:168
+msgid "Error Deactivation module"
+msgstr ""
+
+#: classes/modInstaller.php:189
+msgid "Error Activating module"
+msgstr ""
+
+#: classes/model.php:177 classes/model.php:192 classes/model.php:209
+msgid "Database error detected"
+msgstr ""
+
+#: classes/model.php:179 classes/model.php:194
+msgid "Invalid ID"
+msgstr ""
+
+#: classes/model.php:243
+msgid "Empty or invalid ID"
+msgstr ""
+
+#: classes/table.php:281
+msgid "Nothing to update"
+msgstr ""
+
+#: classes/table.php:297
+msgid "Database error. Please contact your developer."
+msgstr ""
+
+#: classes/tables/modules.php:7 classes/tables/modules_type.php:8
+msgid "Label"
+msgstr ""
+
+#: classes/tables/modules.php:8
+msgid "Type"
+msgstr ""
+
+#: classes/tables/modules.php:9
+msgid "Active"
+msgstr ""
+
+#: classes/tables/modules.php:10
+msgid "Params"
+msgstr ""
+
+#: classes/tables/modules.php:13
+msgid "Code"
+msgstr ""
+
+#: classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr ""
+
+#: classes/tables/modules_type.php:7
+msgid "ID"
+msgstr ""
+
+#: classes/tables/usage_stat.php:8
+msgid "code"
+msgstr ""
+
+#: classes/tables/usage_stat.php:9
+msgid "visits"
+msgstr ""
+
+#: classes/tables/usage_stat.php:10
+msgid "spent_time"
+msgstr ""
+
+#: classes/tables/usage_stat.php:11
+msgid "modify_timestamp"
+msgstr ""
+
+#: classes/validator.php:30
+#, php-format
+msgid "Invalid length for %s, max length is %s"
+msgstr ""
+
+#: classes/validator.php:43
+#, php-format
+msgid "Invalid numeric value for %s"
+msgstr ""
+
+#: classes/validator.php:71 modules/supsystic_promo/controller.php:39
+#, php-format
+msgid "Please enter %s"
+msgstr ""
+
+#: classes/validator.php:78 modules/supsystic_promo/controller.php:39
+#, php-format
+msgid "Please select %s"
+msgstr ""
+
+#: classes/validator.php:85 classes/validator.php:101
+#, php-format
+msgid "Invalid %s"
+msgstr ""
+
+#: classes/validator.php:88
+#, php-format
+msgid "%s is already registered"
+msgstr ""
+
+#: modules/adminmenu/mod.php:13
+#, php-format
+msgid ""
+"Cool WordPress plugins from woobewoo.com developers. I tried %s - and this "
+"was what I need! #woobewoo.com"
+msgstr ""
+
+#: modules/adminmenu/mod.php:14 modules/options/mod.php:55
+msgid "Settings"
+msgstr ""
+
+#: modules/adminmenu/mod.php:15
+msgid "More plugins for your WordPress site here!"
+msgstr ""
+
+#: modules/adminmenu/mod.php:16 modules/adminmenu/mod.php:17
+#: modules/adminmenu/mod.php:18
+msgid "Spread the word!"
+msgstr ""
+
+#: modules/options/mod.php:132
+msgid "General"
+msgstr ""
+
+#: modules/options/mod.php:136
+msgid "Compare Button name"
+msgstr ""
+
+#: modules/options/mod.php:137
+msgid "Manage a text for adding a product to table button"
+msgstr ""
+
+#: modules/options/mod.php:142
+msgid "Added button name"
+msgstr ""
+
+#: modules/options/mod.php:143
+msgid "Manage a text to appear for an already added button"
+msgstr ""
+
+#: modules/options/mod.php:148
+msgid "Buy button name"
+msgstr ""
+
+#: modules/options/mod.php:149
+msgid "Manage a text to appear for an already buy button"
+msgstr ""
+
+#: modules/options/mod.php:154
+msgid "Show on the product page"
+msgstr ""
+
+#: modules/options/mod.php:155
+msgid ""
+"Check this box, if you want to allow table appearing on the individual "
+"product pages"
+msgstr ""
+
+#: modules/options/mod.php:160
+msgid "Show on products list"
+msgstr ""
+
+#: modules/options/mod.php:161
+msgid ""
+"Check this box, if you want to allow table appearing on pages with product "
+"lists"
+msgstr ""
+
+#: modules/options/mod.php:166
+msgid "Display table as"
+msgstr ""
+
+#: modules/options/mod.php:167
+msgid "Choose a way for table displaying"
+msgstr ""
+
+#: modules/options/mod.php:171
+msgid "PopUp"
+msgstr ""
+
+#: modules/options/mod.php:177
+msgid "Table"
+msgstr ""
+
+#: modules/options/mod.php:180
+msgid "Table template"
+msgstr ""
+
+#: modules/options/mod.php:181
+msgid "Select table preset from the list"
+msgstr ""
+
+#: modules/options/mod.php:189
+msgid "Fields"
+msgstr ""
+
+#: modules/options/mod.php:190
+msgid ""
+"Select fields to be shown in the comparison table. You can reorder them by "
+"dragging an arrow. Note - fields  content is filled automatically from "
+"WooCommerce attributes"
+msgstr ""
+
+#: modules/options/models/modules.php:35
+msgid "Module Updated"
+msgstr ""
+
+#: modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr ""
+
+#: modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr ""
+
+#: modules/options/models/options.php:64
+msgid "Empty data to save option"
+msgstr ""
+
+#: modules/options/views/options.php:66
+#: modules/supsystic_promo/views/supsystic_promo.php:85
+msgid "Undefined"
+msgstr ""
+
+#: modules/options/views/tpl/optionsAdminMain.php:18
+msgid "Main page Go here!!!!"
+msgstr ""
+
+#: modules/options/views/tpl/optionsAdminPage.php:35
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:75
+msgid "Improve Free version"
+msgstr ""
+
+#: modules/options/views/tpl/optionsAdminPage.php:37
+#, php-format
+msgid ""
+"Please be advised that this template with all other options and PRO "
+"templates is available only in <a target=\"_blank\" href=\"%s\">PRO version</"
+"a>. You can <a target=\"_blank\" href=\"%s\" class=\"button\">Get PRO</a> "
+"today and get this and other PRO templates and features for your Forms!"
+msgstr ""
+
+#: modules/options/views/tpl/optionsAdminPage.php:40
+#, php-format
+msgid ""
+"Please be advised that this option is available only in <a target=\"_blank\" "
+"href=\"%s\">PRO version</a>. You can <a target=\"_blank\" href=\"%s\" class="
+"\"button\">Get PRO</a> today and get this and other PRO option for your "
+"Forms!"
+msgstr ""
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:3
+msgid "Save all options"
+msgstr ""
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:6
+msgid "Save"
+msgstr ""
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:64
+#, php-format
+msgid "Turned On %s"
+msgstr ""
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:65
+#, php-format
+msgid "Turned Off %s"
+msgstr ""
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:72
+msgid "PRO option"
+msgstr ""
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:87
+msgid "Send test"
+msgstr ""
+
+#: modules/pages/views/tpl/deactivatePage.php:33
+msgid "Delete Plugin Data (options, setup data, database tables, etc.)"
+msgstr ""
+
+#: modules/supsystic_promo/controller.php:7
+#: modules/supsystic_promo/controller.php:103
+#: modules/supsystic_promo/controller.php:111
+#: modules/supsystic_promo/controller.php:119
+msgid "Information was saved. Thank you!"
+msgstr ""
+
+#: modules/supsystic_promo/controller.php:23
+msgid ""
+"Please don't send contact requests so often - wait for response for your "
+"previous requests."
+msgstr ""
+
+#: modules/supsystic_promo/controller.php:45
+msgid "Please enter valid email address"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:35
+#, php-format
+msgid ""
+"<h3>Hey, I noticed you just use %s over a week – that’s awesome!</"
+"h3><p>Could you please do me a BIG favor and give it a 5-star rating on "
+"WordPress? Just to help us spread the word and boost our motivation.</p>"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:36 modules/supsystic_promo/mod.php:42
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:37 modules/supsystic_promo/mod.php:43
+msgid "Nope, maybe later"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:38
+msgid "I already did"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:39
+#, php-format
+msgid "<h3>More then eleven days with our %s plugin - Congratulations!</h3>"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:40
+msgid ""
+"<p>On behalf of the entire <a href=\"https://woobewoo.com/\" target=\"_blank"
+"\">woobewoo.com</a> company I would like to thank you for been with us, and "
+"I really hope that our software helped you.</p>"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:41
+msgid ""
+"<p>And today, if you want, - you can help us. This is really simple - you "
+"can just add small promo link to our site under your Forms. This is small "
+"step for you, but a big help for us! Sure, if you don't want - just skip "
+"this and continue enjoy our software!</p>"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:44
+msgid "Skip"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:98
+msgid "Constant Contact - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:99
+msgid "Campaign Monitor - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:100
+msgid "Vertical Response - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:101
+msgid "SendGrid - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:102
+msgid "GetResponse - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:103
+msgid "iContact - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:104
+msgid "Active Campaign - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:105
+msgid "Mailrelay - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:106
+msgid "arpReach - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:107
+msgid "SG Autorepondeur - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:108
+msgid "Benchmark - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:109
+msgid "InfusionSoft - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:110
+msgid "SalesForce - Web-to-Lead - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:111
+msgid "ConvertKit - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:112
+msgid "Emma - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:181
+msgid "Name"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:182
+msgid "Email"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:183
+msgid "Website"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:184
+msgid "Subject"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:185
+msgid "Topic"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:186
+msgid "Plugin options"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:187
+msgid "Report a bug"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:188
+msgid "Require a new functionality"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:189
+msgid "Other"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:191
+msgid "Message"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:191
+msgid "Hello Supsystic Team!"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:25
+msgid "Why Form by Supsystic is \"must have\" for your website?"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:26
+#, php-format
+msgid ""
+"Increase your sales by 500%% using Form by Supsystic! More subscribers = "
+"more sales! It's that simple!<br />More info you can find here <a target="
+"\"_blank\" href=\"%s\">Form by Supsystic is \"must have\" for your website</"
+"a>"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:27
+msgid "What is A/B testing?"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:28
+#, php-format
+msgid ""
+"A/B testing is one of the easiest ways to increase conversion rates and "
+"learn more about your audience!<br />A/B test in Form plugin involves "
+"testing two or more versions of a newsletters window - an A version "
+"(original) and a B versions (the variation) - with live traffic and "
+"measuring the effect each version has on your conversion rate.<br />To know "
+"more detail – click <a target=\"_blank\" href=\"%s\">here</a>"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:29
+msgid "How to enable subscription to Aweber?"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:30
+#, php-format
+msgid ""
+"In order to subscribe to Aweber you need to know unique list id of your "
+"aweber account - check this <a target=\"_blank\" href=\"%s\">page</a> for "
+"more details."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:31
+msgid "How to subscribe to MailChimp?"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:32
+msgid ""
+"To subscribe to MailChimp you need enter your MailChimp API key and name of "
+"list for subscription. To find your MailChimp API key - follow the "
+"instructions below:<br />\n"
+"\t\t\t\t1. Login to your mailchimp account at http://mailchimp.com<br />\n"
+"\t\t\t\t2. From the left main menu, click on your Username, then select "
+"\"Account\" in the flyout menu.<br />\n"
+"\t\t\t\t3. From the account page select \"Extras\" -> \"API Keys\".<br />\n"
+"\t\t\t\t4. Your API Key will be listed in the table labeled \"Your API Keys"
+"\".<br />\n"
+"\t\t\t\t5. Copy / Paste your API key into \"MailChimp API key\" field in "
+"Form edit screen -> Subscribe section."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:38
+msgid "Where to find css code for the pop-up window?"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:39
+msgid ""
+"With Form by Supsystic you can edit CSS style directly from the plugin. <br /"
+">\n"
+"\t\t\t\tIn WordPress admin area - \n"
+"go to Form by Supsystic -> choose a newsletters, what you need -> click Code "
+"tab. <br />\n"
+"Here you can edit css style of the pop-up window."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:43
+msgid "How to get PRO version of plugin for FREE?"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:44
+#, php-format
+msgid ""
+"You have an incredible opportunity to get PRO version for free. Make "
+"Translation of the plugin! It will be amazing if you take advantage of this "
+"offer!<br />\n"
+"\t\t\t\t\tMore info you can find here <a target=\"_blank\" href=\"%s\">“Get "
+"PRO version of any plugin for FREE”</a>"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:46
+msgid "Translation"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:47
+#, php-format
+msgid ""
+"All available languages are provided with the Supsystic Form plugin. If your "
+"language isn’t available, your plugin will be in English by default.<br />\n"
+"\t\t\t\t\tAvailable Translations: English, French, German, Spanish, "
+"Russian<br />\n"
+"\t\t\t\t\tTranslate or update a translation Form WordPress plugin in your "
+"language and get a Premium license for FREE. <a target=\"_blank\" href=\"%s"
+"\">Contact us.</a>"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:54
+msgid "Where's my subscribers?"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:55
+#, php-format
+msgid ""
+"By default all subscribers add to the WordPress. \n"
+"\t\t\t\t\tTo find your subscribers go to Users tab on the left navigation "
+"menu of WordPress admin area. \n"
+"\t\t\t\t\tAlso available subscription to the Aweber, MailChimp, MailPoet <a "
+"href='%s' target='_blank'>and other</a>. \n"
+"\t\t\t\t\tIf you want to add another subscription service - just <a "
+"href='%s' target='_blank'>contact us</a> and provide URL of the subscription "
+"service."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:59
+msgid "Form doesn't appear on the website"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:60
+#, php-format
+msgid ""
+"If you setup you're Form properly, and it still doesn't show on the page - "
+"there are can be conflict with your WordPress theme or other plugins. <a "
+"href='%s' target='_blank'>Contact us</a> with the URL of the webpage you add "
+"newsletters and screenshots / text of the error messages, if you have one - "
+"and we will help you resolve your issue."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:76
+#, php-format
+msgid ""
+"There were some problems while trying to retrieve our news, but you can "
+"always check all list <a target=\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:86
+#: modules/supsystic_promo/views/supsystic_promo.php:87
+#: modules/supsystic_promo/views/supsystic_promo.php:92
+#: modules/supsystic_promo/views/supsystic_promo.php:94
+#: modules/supsystic_promo/views/supsystic_promo.php:95
+msgid "Yes"
+msgstr ""
+
+#: modules/supsystic_promo/views/supsystic_promo.php:86
+#: modules/supsystic_promo/views/supsystic_promo.php:87
+#: modules/supsystic_promo/views/supsystic_promo.php:92
+#: modules/supsystic_promo/views/supsystic_promo.php:94
+#: modules/supsystic_promo/views/supsystic_promo.php:95
+msgid "No"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/additionalmainAdminShowOnOptions.php:1
+#, php-format
+msgid ""
+"Show when user tries to exit from your site. <a target=\"_blank\" href=\"%s"
+"\">Check example.</a>"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/additionalmainAdminShowOnOptions.php:7
+msgid "On Exit from Site"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/additionalmainAdminShowOnOptions.php:9
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:10
+msgid "Available in PRO"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:11
+msgid "Go"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:11
+msgid "PRO"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:4
+#, php-format
+msgid "Welcome to %s plugin!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:5
+#, php-format
+msgid ""
+"Thank you for choosing our %s plugin. Just click here to start using it - "
+"and we will show you it's possibilities and powerfull features."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:8
+#: modules/supsystic_promo/views/tpl/adminTour.php:18
+#: modules/supsystic_promo/views/tpl/adminTour.php:28
+#: modules/supsystic_promo/views/tpl/adminTour.php:38
+#: modules/supsystic_promo/views/tpl/adminTour.php:48
+#: modules/supsystic_promo/views/tpl/adminTour.php:58
+#: modules/supsystic_promo/views/tpl/adminTour.php:68
+#: modules/supsystic_promo/views/tpl/adminTour.php:78
+#: modules/supsystic_promo/views/tpl/adminTour.php:88
+#: modules/supsystic_promo/views/tpl/adminTour.php:98
+msgid "Close"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:9
+#: modules/supsystic_promo/views/tpl/adminTour.php:19
+#: modules/supsystic_promo/views/tpl/adminTour.php:29
+#: modules/supsystic_promo/views/tpl/adminTour.php:39
+#: modules/supsystic_promo/views/tpl/adminTour.php:49
+#: modules/supsystic_promo/views/tpl/adminTour.php:59
+#: modules/supsystic_promo/views/tpl/adminTour.php:69
+#: modules/supsystic_promo/views/tpl/adminTour.php:79
+#: modules/supsystic_promo/views/tpl/adminTour.php:89
+#: modules/supsystic_promo/views/tpl/adminTour.php:99
+msgid "Next"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:14
+msgid "Create your firs Form"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:15
+msgid ""
+"Click on \"Add New Form\" button to create your firs Form. Just try - this "
+"is really simple!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:24
+msgid "Enter name for your Form"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:25
+msgid "This will be name of your Form. You can change it latter."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:34
+msgid "Selecte template for your Form"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:35
+msgid ""
+"Choose any templates from this list. You will be able to customize it after "
+"creation, and also - you will be able to change it latter if you will need "
+"this."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:44
+msgid "Save first Form"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:45
+msgid ""
+"After you entered name of your Form and selected it's template - just save "
+"it, and you will be redirected to Form edit screen - where you will be able "
+"to customize your Form."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:54
+msgid "Main Settings"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:55
+msgid ""
+"Here you can setup main display settings for your Form - when it should be "
+"visible for your user, when it need to be closed, if required - select "
+"specific pages/posts where you need to show your Form."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:64
+msgid "Design Settings"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:65
+msgid ""
+"One of our most powerfull features - possibility to <strong>customize</"
+"strong> design for each Form window for your needs. In this section you can "
+"select your Form colors and images, enter required texts that will describe "
+"your neds for your visitors, setup social settings (if required), select "
+"Form location, and in the end - select Animation style for your Form from "
+"list of more then 20 different animation styles!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:74
+msgid "Subscribe Settings"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:75
+msgid ""
+"Setup your Subscription settings here - select Subscribers destination in "
+"\"Subscribe to\" option - it allow to flow your subscribers not only to "
+"WordPress Users, but to other popular subscribe services. With other "
+"subscription options you will be able to easily customize your subscribe "
+"form in Form window."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:84
+msgid "Form Statistics"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:85
+msgid ""
+"After you will setup your Form - it will start displaying to your site "
+"visitors. And now - you need to check it's displaying statistics. Here, in "
+"Statistics tab, you will be able to see how many times Form was shown to "
+"your visitors, how many times visitors subscribed to it (if subscription is "
+"enabled), how many times visitors shared your site using Social Share Form "
+"functionality and what social networks for share is most popular (if it was "
+"enabled). If you will use AB Testing feature to increase your site "
+"popularity - you will see here all your main and tested Forms statistics - "
+"in one graph or diagramm, - and this will provide you with all required "
+"information about your POpUp popularity!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:94
+msgid "Form CSS / HTML Code"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:95
+#, php-format
+msgid ""
+"In case you will need modify source CSS / HTML code of your Form - you can "
+"easily do this here. Just make sure that you know what you are doing - don't "
+"break Form. You can also find additional information about editing source "
+"code <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:104
+msgid "Well Done!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:105
+#, php-format
+msgid ""
+"That's it! Now you know how to use our %s. Just save your Form after you "
+"will setup it - and you will see results. You can also check our site - <a "
+"href=\"%s\" target=\"_blank\">woobewoo.com</a> to find out more about our %s "
+"plugin. If you will have any questions - you can always contact us on <a "
+"href=\"%s\" target=\"_blank\">WordPress plugin forum</a> or in <a href=\"%s"
+"\" target=\"_blank\">our support system</a>. We really hope that our "
+"solution will be helpful for you. Good luck!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:108
+msgid "Finish"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:8
+msgid "Enable Layered Form Style"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:12
+msgid ""
+"By default all Forms have modal style: it appears on user screen over the "
+"whole site. Layered style allows you to show your Form - on selected "
+"position: top, bottom, etc. and not over your site - but right near your "
+"content."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:16
+msgid "Select position for your Form"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:19
+msgid "Top Left"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:20
+msgid "Top"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:21
+msgid "Top Right"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:23
+msgid "Center Left"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:24
+msgid "Center"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:25
+msgid "Center Right"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:27
+msgid "Bottom Left"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:28
+msgid "Bottom"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:29
+msgid "Bottom Right"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:77
+#, php-format
+msgid ""
+"This functionality and more - is available in PRO version. <a class=\"button "
+"button-primary\" target=\"_blank\" href=\"%s\">Get it</a> today for 29$"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:31
+msgid "Server Settings"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:44
+msgid "News"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:50
+msgid "All news and info"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:55
+msgid "Contact form"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:87
+msgid "Send email"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:96
+msgid ""
+"Your email was sent, we will try to respond to your as soon as possible. "
+"Thank you for support!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:7
+#, php-format
+msgid "Welcome to the %s v %s"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:8
+msgid "Skip tutorial"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:11
+msgid ""
+"The best way to collect subscribers and show notifications.<br />We are "
+"trying to make our plugin work in most comfortable way for you. Here is some "
+"base information about it."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:19
+msgid "Step-by-step tutorial"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:21
+msgid ""
+"There're really many options of newsletters customization. So as soon as you "
+"close that page, I'll show you step-by-step tutorial of how to use plugin. "
+"Hope it will be usefull for you :)"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:24
+msgid "As an option we can install and setup plugin for you."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:28
+msgid "Support"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:30
+#, php-format
+msgid ""
+"We love our plugin and do the best to improve all features for You. But "
+"sometimes issues happened, or you can't find required feature that you need. "
+"Don't worry, just <a href='%s' target='_blank'>contact us</a> and we will "
+"help you!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:36
+msgid "Video Tutorial"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:48
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:51
+msgid "Check all FAQs"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:59
+msgid "Let's Start!"
+msgstr ""
+
+#: modules/woo/mod.php:62
+msgid "Preview"
+msgstr ""
+
+#: modules/woo/models/Themes/themesBuilder.php:70
+msgid "Please, configure settings and check fields to show."
+msgstr ""
+
+#: modules/woo/views/tpl/frontendPopup.php:2
+msgid "Product compare"
+msgstr ""

@@ -1,0 +1,39 @@
+.wcpCheckboxDrListContainter {
+	/*border: 1px solid #000;*/
+	display: inline-block;
+	min-width: 300px;
+	margin: 20px 0 0;
+	/*padding: 10px;*/
+	position: relative;
+}
+.wcpCheckBoxListItem {
+	border: 1px solid #000;
+	margin: 10px 20px 10px 20px;
+	position: relative;
+	padding: 5px;
+}
+.wcpOnePpHandle {
+	position: absolute;
+	left: -15px;
+	top: 9px;
+	font-weight: bold;
+	cursor: pointer;
+}
+.wcpCblItemLabel {
+
+}
+.wcpSpanCblItem {
+	margin-left: 10px;
+	user-select: none;
+}
+.wcpCheckboxCblItem {
+
+}
+.sortable-placeholder,
+.wcpSortableHightLight {
+	background: #4ae8ea !important;
+	border-color: #4ae8ea !important;
+	min-height: 32px;
+	display: block;
+	margin: 10px 20px 10px 20px;
+}

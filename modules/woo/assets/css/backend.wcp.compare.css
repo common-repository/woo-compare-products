@@ -1,0 +1,17 @@
+
+/**/
+.wcpCompareProductTable {
+	display: table;
+}
+.wcpProductRow {
+	display: table-row;
+}
+.wcpProductCell {
+	display: table-cell;
+	vertical-align: top;
+	min-width: 200px;
+	word-break: break-word;
+}
+.wcpProductLogoImg {
+	max-width: 100%;
+}
